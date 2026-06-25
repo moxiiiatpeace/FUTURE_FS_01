@@ -41,7 +41,6 @@ Shows technical skills and technologies.
 
 Displays projects and work samples including:
 
-* PYQ Hub
 * Calculator App
 * Student Management System
 
